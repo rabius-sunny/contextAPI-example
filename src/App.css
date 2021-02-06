@@ -1,0 +1,30 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Lexend Mega', sans-serif;
+}
+.nav{
+    height: 70px;
+    background: rgb(18, 18, 58);
+    color: rgb(132, 255, 249);
+    display: flex;
+    align-items: center;
+}
+.nav p{
+    font-size: 20px;
+}
+.case{
+    text-align: center;
+}
+.case h3{
+    background: darkcyan;
+    color: #fff;
+    padding: 10px;
+    font-size: 25px;
+}
+.case p{
+    background: lightblue;
+    font-weight: 800;
+    padding: 7px;
+    margin-top: -8px;
+}
